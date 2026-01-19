@@ -1,2 +1,2 @@
-# Bal_Excise
+# Excise
 Balochistan Excise Department Laravel Project
