@@ -1,0 +1,5 @@
+To play game, go inside the 'TEKKEN.7.v5.10.Incl.ALL.DLC' folder, right click and run 'TEKKEN 7' as administrator
+
+If you get any missing dll errors or the game isn't launching, go inside the _Redist folder and install all 8 programs in the folder
+
+For more FREE PC GAMES, visit GamingBeasts.com

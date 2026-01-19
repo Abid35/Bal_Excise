@@ -1,0 +1,8 @@
+main {
+	background: transparent;
+	min-height: calc(100vh - 48px);
+}
+
+.card {
+	border-radius: 10px;
+}

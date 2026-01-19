@@ -1,0 +1,114 @@
+[08-Oct-2023 19:32:00 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:32:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:32:13 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:32:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:36:54 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:36:54 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:16 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:16 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:16 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:17 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:17 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:17 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:27 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:27 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:27 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[08-Oct-2023 19:38:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/etanb/public_html/vendor/composer/autoload_real.php(61): composerRequire08a1cff6bc5fc053192b1ec4b710410b('ec07570ca5a8121...', '/home/etanb/pub...')
+#1 /home/etanb/public_html/vendor/autoload.php(7): ComposerAutoloaderInit08a1cff6bc5fc053192b1ec4b710410b::getLoader()
+#2 /home/etanb/public_html/artisan(18): require('/home/etanb/pub...')
+#3 {main}
+  thrown in /home/etanb/public_html/vendor/composer/autoload_real.php on line 78
+[05-Oct-2025 19:48:00 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/etanb/public_html/artisan on line 18
+[05-Oct-2025 19:48:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/etanb/public_html/artisan on line 18
+[05-Oct-2025 19:49:00 UTC] PHP Warning:  require(/home/etanb/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/etanb/public_html/artisan on line 18
+[05-Oct-2025 19:49:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/etanb/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/etanb/public_html/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/etanb/public_html/artisan on line 18

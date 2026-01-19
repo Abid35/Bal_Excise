@@ -1,0 +1,84 @@
+#nrTable tbody tr:hover {
+	background: rgba(99, 102, 241, 0.04);
+}
+#nrPagination .page-item.active .page-link {
+	background: linear-gradient(90deg, var(--accent-start), var(--accent-end));
+	border-color: transparent;
+	color: #fff;
+}
+#nrTable th {
+	white-space: nowrap;
+}
+
+.nr-loader {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(255, 255, 255, 0.85);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	z-index: 50;
+}
+
+.nr-spinner {
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+	border: 6px solid rgba(99, 102, 241, 0.15);
+	border-top-color: var(--accent-start);
+	animation: spin 1s linear infinite;
+	margin-bottom: 10px;
+}
+
+.nr-loading-text {
+	color: #475569;
+	font-weight: 600;
+}
+
+@keyframes spin {
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.nr-loader {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: linear-gradient(
+		180deg,
+		rgba(255, 255, 255, 0.6),
+		rgba(255, 255, 255, 0.85)
+	);
+	backdrop-filter: blur(4px);
+	z-index: 30;
+	flex-direction: column;
+}
+.nr-spinner {
+	width: 56px;
+	height: 56px;
+	border-radius: 50%;
+	border: 6px solid rgba(99, 102, 241, 0.15);
+	border-top-color: var(--accent-start);
+	animation: nr-spin 1s linear infinite;
+	margin-bottom: 12px;
+}
+.nr-loading-text {
+	color: #374151;
+	font-weight: 600;
+}
+@keyframes nr-spin {
+	to {
+		transform: rotate(360deg);
+	}
+}
+.card .table-responsive {
+	position: relative;
+	min-height: 80px;
+}

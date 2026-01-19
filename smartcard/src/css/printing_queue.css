@@ -1,0 +1,11 @@
+#pqTable tbody tr:hover {
+	background: rgba(99, 102, 241, 0.04);
+}
+#pqPagination .page-item.active .page-link {
+	background: linear-gradient(90deg, var(--accent-start), var(--accent-end));
+	border-color: transparent;
+	color: #fff;
+}
+#pqTable th {
+	white-space: nowrap;
+}

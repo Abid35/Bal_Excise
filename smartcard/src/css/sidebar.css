@@ -1,0 +1,27 @@
+nav.bg-white {
+	background: var(--card);
+}
+
+.sidebar-brand {
+	font-size: 18px;
+}
+
+.nav-link {
+	color: #334155;
+}
+
+.nav-link:hover {
+	background: rgba(99, 102, 241, 0.06);
+	color: var(--accent-start);
+}
+
+.nav-link.active {
+	background: linear-gradient(
+		90deg,
+		rgba(79, 70, 229, 0.08),
+		rgba(99, 102, 241, 0.06)
+	);
+	color: var(--accent-start);
+	font-weight: 600;
+	border-radius: 6px;
+}

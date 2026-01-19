@@ -1,0 +1,8 @@
+#usersTable td,
+#usersTable th {
+	vertical-align: middle;
+}
+
+#userModal .modal-content {
+	border-radius: 10px;
+}

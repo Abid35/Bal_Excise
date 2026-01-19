@@ -1,0 +1,7 @@
+#spDetails .list-group-item strong {
+	width: 140px;
+	display: inline-block;
+}
+#spResult {
+	max-width: 1000px;
+}

@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "name": "vehicle-scheduler",
+      "script": "artisan",
+      "args": "schedule:work",
+      "exec_interpreter": "php",
+      "exec_mode": "fork",
+      "instances": 1,
+      "autorestart": true,
+      "time": true
+    },
+    {
+      "name": "vehicle-queue",
+      "script": "artisan",
+      "args": "queue:work --sleep=3 --tries=3",
+      "exec_interpreter": "php",
+      "exec_mode": "fork",
+      "instances": 1,
+      "autorestart": true,
+      "time": true
+    }
+  ]
+}
